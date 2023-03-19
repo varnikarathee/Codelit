@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832232209958",
+    "project_id": "codelit-f7722",
+    "storage_bucket": "codelit-f7722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832232209958:android:2c0ce3f2018db43e4730e7",
+        "android_client_info": {
+          "package_name": "com.example.codelit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832232209958-uanbt8frlac4hq5c6dk5tk02evfgg2q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgM5cr37luwT-YOG5oSKWBi5kx4kuPjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832232209958-uanbt8frlac4hq5c6dk5tk02evfgg2q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
